@@ -1,0 +1,21 @@
+﻿  fsobject.cpp
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\accessdescriptor.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\fsobject.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\fsobject.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\fsobject.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\fsobject.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  operation.cpp
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\operation.h(62): warning C4150: deletion of pointer to incomplete type 'FSObject'; no destructor called
+  c:\users\temp\documents\visual studio 2017\projects\project1\project1\operation.h(4): note: see declaration of 'FSObject'
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\operation.h(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\accessdescriptor.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\fsobject.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\temp\documents\visual studio 2017\projects\project1\project1\operation.cpp(5): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  visitor.cpp
+  main.cpp
+  Project1.vcxproj -> c:\users\temp\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\temp\documents\visual studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
